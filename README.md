@@ -5,6 +5,6 @@ Here you can find all Read summaries for 401 course.
 
 *Class*             |    *Link*
 ------------------  |    -----------
-Engineering Topics  |    [Here]()
+Engineering Topics  |    [Here](https://batoolalali.github.io/401-Reading-notes/Engineering%20Topics)
 class 01            |    [Here]()
 class 02            |    [Here]()
