@@ -30,7 +30,7 @@ Module is a set of functions, globals and classes that you can import. Package i
 2. exports:
 
 ```javaScript
- {
+{
 
 const printName = (name) => {
 console.log(name);
@@ -38,19 +38,19 @@ console.log(name);
 
 exports.printName = printName;
 }
- ```
+```
 
 3. module.exports:
 
 ```javaScript
- {
+{
 
 module.exports = {
   printName: (name) => {
   console.log(name);
   },
 }
- ```
+```
 
 *Term*             |    *Documentation*
 ------------------ |    -----------
