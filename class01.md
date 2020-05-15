@@ -20,13 +20,15 @@ Module is a set of functions, globals and classes that you can import. Package i
 
  ## Provide code snippets showing 3 different ways to export a function from a node module!
  1. require:
+
  ```javaScript
  {
  const fs = require('fs');
  }
  ```
 
-2. exports
+2. exports:
+
 ```javaScript
  {
 
@@ -38,7 +40,8 @@ exports.printName = printName;
 }
  ```
 
-3. module.exports
+3. module.exports:
+
 ```javaScript
  {
 
