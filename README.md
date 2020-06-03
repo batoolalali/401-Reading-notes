@@ -15,3 +15,4 @@ class 06            |    [Here](https://batoolalali.github.io/401-Reading-notes/
 class 07            |    [Here](https://batoolalali.github.io/401-Reading-notes/class07)
 class 08            |    [Here](https://batoolalali.github.io/401-Reading-notes/class08)
 class 09            |    [Here](https://batoolalali.github.io/401-Reading-notes/class09)
+class 10            |    [Here](https://batoolalali.github.io/401-Reading-notes/class10)
