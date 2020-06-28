@@ -25,3 +25,8 @@ class 16            |    [Here](https://batoolalali.github.io/401-Reading-notes/
 class 17            |    [Here](https://batoolalali.github.io/401-Reading-notes/class17)
 class 18            |    [Here](https://batoolalali.github.io/401-Reading-notes/class18)
 class 19            |    [Here](https://batoolalali.github.io/401-Reading-notes/class19)
+class 26            |    [Here](https://batoolalali.github.io/401-Reading-notes/class26)
+class 27            |    [Here](https://batoolalali.github.io/401-Reading-notes/class27)
+class 28            |    [Here](https://batoolalali.github.io/401-Reading-notes/class28)
+class 29            |    [Here](https://batoolalali.github.io/401-Reading-notes/class29)
+class 30            |    [Here](https://batoolalali.github.io/401-Reading-notes/class30)
