@@ -30,3 +30,8 @@ class 27            |    [Here](https://batoolalali.github.io/401-Reading-notes/
 class 28            |    [Here](https://batoolalali.github.io/401-Reading-notes/class28)
 class 29            |    [Here](https://batoolalali.github.io/401-Reading-notes/class29)
 class 30            |    [Here](https://batoolalali.github.io/401-Reading-notes/class30)
+class 31            |    [Here](https://batoolalali.github.io/401-Reading-notes/class31)
+class 32            |    [Here](https://batoolalali.github.io/401-Reading-notes/class32)
+class 33            |    [Here](https://batoolalali.github.io/401-Reading-notes/class33)
+class 34            |    [Here](https://batoolalali.github.io/401-Reading-notes/class34)
+class 35            |    [Here](https://batoolalali.github.io/401-Reading-notes/class35)
