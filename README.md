@@ -35,3 +35,8 @@ class 32            |    [Here](https://batoolalali.github.io/401-Reading-notes/
 class 33            |    [Here](https://batoolalali.github.io/401-Reading-notes/class33)
 class 34            |    [Here](https://batoolalali.github.io/401-Reading-notes/class34)
 class 35            |    [Here](https://batoolalali.github.io/401-Reading-notes/class35)
+class 36            |    [Here](https://batoolalali.github.io/401-Reading-notes/class36)
+class 37            |    [Here](https://batoolalali.github.io/401-Reading-notes/class37)
+class 38            |    [Here](https://batoolalali.github.io/401-Reading-notes/class38)
+class 39            |    [Here](https://batoolalali.github.io/401-Reading-notes/class39)
+class 40            |    [Here](https://batoolalali.github.io/401-Reading-notes/class40)
