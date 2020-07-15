@@ -39,4 +39,4 @@ class 36            |    [Here](https://batoolalali.github.io/401-Reading-notes/
 class 37            |    [Here](https://batoolalali.github.io/401-Reading-notes/class37)
 class 38            |    [Here](https://batoolalali.github.io/401-Reading-notes/class38)
 class 39            |    [Here](https://batoolalali.github.io/401-Reading-notes/class39)
-class 40            |    [Here](https://batoolalali.github.io/401-Reading-notes/class40)
+class 41            |    [Here](https://batoolalali.github.io/401-Reading-notes/class41)
